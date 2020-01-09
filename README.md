@@ -1,2 +1,2 @@
 # Coursera_Capstone
-Coursera training Applied data science capstone
+Repo used for the Coursera training of Applied data science, capstone project
